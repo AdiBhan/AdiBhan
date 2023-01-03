@@ -17,7 +17,7 @@
 - Adi - AI Advertisement Generator: Adi is a mobile application that generate advertisements using artificial intelligence from Dalle-@@. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end. It won BostonHacks2022's "Best Overall Hack".
 **Learn More**: https://www.getadi.tech
 
-- Greengle -Greengle is a companion site for *Amazon.com* that helps consumers estimate the carbon footprint of their Amazon purchase. This project was initially created during an eight-hour "BU Spark!" sustainability mini-hackathon and won the "Best Code" prize. It functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
+- Greengle -  Carbon footprint tracker for online shoppers: Greengle is a companion site for *Amazon.com* that helps consumers estimate the carbon footprint of their Amazon purchase. This project was initially created during an eight-hour "BU Spark!" sustainability mini-hackathon and won the "Best Code" prize. It functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
 **Learn More**: https://github.com/AdiBhan/Greengle
 
 
