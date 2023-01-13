@@ -5,14 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adibhan" alt="adibhan" /></a> </p>
 
-- 🌱 I’m currently learning - **ReactJS, Firebase & Django**
+- 🌱 Technologies I’m currently learning - **ReactJS, Firebase, Django & TypeScript**
 
-- 👨‍💻 All of my projects are available @ [https://adibhan.github.io/PersonalSite/](https://adibhan.github.io/PersonalSite/)
+- 👨‍💻 All of my projects are available @ [https://AdiBhan.github.io/Portfolio/](https://AdiBhan.github.io/Portfolio/)
 
 - 📫 How to reach me | **abhan03@Bu.edu** | **adityabhan99@gmail.com**
 
 
-## Central Projects 
+## Recent Projects 
+
+- I created a personal portfolio website with ReactJS and TailwindCSS. I plan on updating and improving this site as I continue to learn more about React.
+**View Demo ➡️ https://adibhan.github.io/Portfolio/**
 
 - Adi - AI Advertisement Generator: Adi is a mobile application that generate advertisements using artificial intelligence from Dalle-@@. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end. It won BostonHacks2022's "Best Overall Hack".
 **Learn More**: https://www.getadi.tech
