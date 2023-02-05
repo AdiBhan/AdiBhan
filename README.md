@@ -15,7 +15,7 @@
 ## Recent Projects 
 
 - USColleges.live - Introducing "USColleges" a one-stop website for all your college ranking needs! This website brings together data from multiple college ranking websites and presents it in an easy-to-compare format. With a sleek and modern user interface built with ReactJS, Tailwind CSS, and Semantic UI, you'll have a seamless browsing experience as you compare colleges and find the perfect fit for you.
-**View Demo ➡️ https://uscolleges.live/**
+**View Demo ➡️ http://uscolleges.live/**
 
 - I created a personal portfolio website with ReactJS and TailwindCSS. I plan on updating and improving this site as I continue to learn more about React.
 **View Demo ➡️ https://adibhan.github.io/Portfolio/**
