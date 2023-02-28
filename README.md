@@ -23,7 +23,7 @@
 - I created a personal portfolio website with ReactJS and TailwindCSS. I plan on updating and improving this site as I continue to learn more about React.
 **View Demo ➡️ https://adibhan.github.io/Portfolio/**
 
-- Adi - AI Advertisement Generator: Adi is a mobile application that generate advertisements using artificial intelligence from Dalle-@@. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end. It won BostonHacks2022's "Best Overall Hack".
+- Adi - For the 2023 BostonHacks Hackathon, I worked with a team of developers to create Adi -> AI Advertisement Generator: Adi is a mobile application that generate advertisements using artificial intelligence from Dalle-@@. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end. It won BostonHacks2022's "Best Overall Hack".
 **Learn More**: https://www.getadi.tech | <a href= "https://bostonhacks-2022.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio">DEVPOST</a> 
 
 - Greengle -  Carbon footprint tracker for online shoppers: Greengle is a companion site for *Amazon.com* that helps consumers estimate the carbon footprint of their Amazon purchase. This project was initially created during an eight-hour "BU Spark!" sustainability mini-hackathon and won the "Best Code" prize. It functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
