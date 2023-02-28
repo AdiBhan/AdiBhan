@@ -12,16 +12,19 @@
 - 📫 How to reach me | **abhan03@Bu.edu** | **adityabhan99@gmail.com**
 
 
-## Recent Projects 
+## Previous Projects Projects 
+
+- ParentAlly.social -> For the 2023 Civic Tech Hackathon, I worked on the parentally.social project as a part of a team of developers to create a online platform that connects single parents by geographic area. My main contribution was designing a chatbot using OpenAI and ExpressJS. I also assisted in creating the website's front-end using HTML and CSS. It was a challenging but rewarding experience working on this project and I am excited to see its future development.
+- **View Demo ➡️ http://parentally.social/** | <a href= "https://devpost.com/software/parentally-empowering-single-parents?ref_content=my-projects-tab&ref_feature=my_projects">DEVPOST</a> 
 
 - USColleges.live - Introducing "USColleges" a one-stop website for all your college ranking needs! This website brings together data from multiple college ranking websites and presents it in an easy-to-compare format. With a sleek and modern user interface built with ReactJS, Tailwind CSS, and Semantic UI, you'll have a seamless browsing experience as you compare colleges and find the perfect fit for you.
-**View Demo ➡️ http://uscolleges.live/**
+**View Demo ➡️ http://uscolleges.live/** 
 
 - I created a personal portfolio website with ReactJS and TailwindCSS. I plan on updating and improving this site as I continue to learn more about React.
 **View Demo ➡️ https://adibhan.github.io/Portfolio/**
 
 - Adi - AI Advertisement Generator: Adi is a mobile application that generate advertisements using artificial intelligence from Dalle-@@. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end. It won BostonHacks2022's "Best Overall Hack".
-**Learn More**: https://www.getadi.tech
+**Learn More**: https://www.getadi.tech | <a href= "https://bostonhacks-2022.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio">DEVPOST</a> 
 
 - Greengle -  Carbon footprint tracker for online shoppers: Greengle is a companion site for *Amazon.com* that helps consumers estimate the carbon footprint of their Amazon purchase. This project was initially created during an eight-hour "BU Spark!" sustainability mini-hackathon and won the "Best Code" prize. It functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
 **Learn More**: https://github.com/AdiBhan/Greengle
