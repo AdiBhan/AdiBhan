@@ -7,7 +7,7 @@
 
 - 🌱 Technologies I’m currently learning - **ReactJS, Firebase, Django & TypeScript**
 
-- 👨‍💻 All of my projects are available @ [https://AdiBhan.github.io/Portfolio/](https://AdiBhan.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available @ [https://adibhan.github.io/](https://adibhan.github.io/)
 
 - 📫 How to reach me | **abhan03@Bu.edu** | **adityabhan99@gmail.com**
 
@@ -21,7 +21,7 @@
 **View Demo ➡️ http://uscolleges.live/** 
 
 - I created a personal portfolio website with ReactJS and TailwindCSS. I plan on updating and improving this site as I continue to learn more about React.
-**View Demo ➡️ https://adibhan.github.io/Portfolio/**
+**View Demo ➡️ https://adibhan.github.io/**
 
 - Adi - For the 2023 BostonHacks Hackathon, I worked with a team of developers to create Adi -> AI Advertisement Generator: Adi is a mobile application that generate advertisements using artificial intelligence from Dalle-@@. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end. It won BostonHacks2022's "Best Overall Hack".
 **Learn More**: https://www.getadi.tech | <a href= "https://bostonhacks-2022.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio">DEVPOST</a> 
