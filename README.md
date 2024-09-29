@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adi Bhan</h1>
-<h3 align="center">I'm a Sophomore studying Computer Science at Boston University</h3>
+<h3 align="center">I'm a Senior studying Computer Science at Boston University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adibhan&label=Profile%20views&color=0e75b6&style=flat" alt="adibhan" /> </p>
 
