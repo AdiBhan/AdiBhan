@@ -1,22 +1,12 @@
 # Hi 👋, I'm Adi Bhan
-
+----
 ## 🎓 Senior | Computer Science @ Boston University
 
-### 👨‍💻 About Me
-I'm a passionate software developer dedicated to creating scalable, efficient, and impactful solutions.  
-💡 My journey spans building **ML-powered tools**, crafting **intuitive mobile and web applications**, and delivering high-quality software to solve real-world problems.
+- I'm a Senior studying Computer Science at Boston University and a passionate software developer dedicated to creating scalable, efficient, and impactful solutions.  
+- My journey spans building **ML-powered tools**, crafting **intuitive mobile and web applications**, and delivering high-quality software to solve real-world problems.
 
-Feel free to explore my projects and connect with me!
 <div style="font-size: 1.2em; line-height: 1.6;">
   <p>🎓 <strong>Incoming:</strong> Software Development Intern at <strong>UKG</strong></p>
-  <p>🌱 <strong>Technologies I Work With:</strong></p>
-  <ul style="list-style-type: square; margin-left: 20px;">
-    <li>React Native</li>
-    <li>C# ASP.NET Core</li>
-    <li>Java (Spring Boot)</li>
-    <li>TypeScript</li>
-    <li>Python (ML/Data Science)</li>
-  </ul>
   <p>👨‍💻 <strong>Portfolio:</strong> <a href="https://adibhan.github.io/" target="_blank">https://adibhan.github.io/</a></p>
   <p>📫 <strong>Contact:</strong> <a href="mailto:abhan03@bu.edu">abhan03@bu.edu</a></p>
 </div>
