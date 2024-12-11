@@ -1,41 +1,97 @@
-<h1 align="center">Hi 👋, I'm Adi Bhan</h1>
-<h3 align="center">I'm a Senior studying Computer Science at Boston University</h3>
+# Hi 👋, I'm Adi Bhan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adibhan&label=Profile%20views&color=0e75b6&style=flat" alt="adibhan" /> </p>
+## 🎓 Senior | Computer Science @ Boston University
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adibhan" alt="adibhan" /></a> </p>
+### 👨‍💻 About Me
+I'm a passionate software developer dedicated to creating scalable, efficient, and impactful solutions.  
+💡 My journey spans building **ML-powered tools**, crafting **intuitive mobile and web applications**, and delivering high-quality software to solve real-world problems.
 
-- 🌱 Technologies I’m currently learning - **ReactJS, Firebase, Django & TypeScript**
+Feel free to explore my projects and connect with me!
+<div style="font-size: 1.2em; line-height: 1.6;">
+  <p>🎓 <strong>Incoming:</strong> Software Development Intern at <strong>UKG</strong></p>
+  <p>🌱 <strong>Technologies I Work With:</strong></p>
+  <ul style="list-style-type: square; margin-left: 20px;">
+    <li>React Native</li>
+    <li>C# ASP.NET Core</li>
+    <li>Java (Spring Boot)</li>
+    <li>TypeScript</li>
+    <li>Python (ML/Data Science)</li>
+  </ul>
+  <p>👨‍💻 <strong>Portfolio:</strong> <a href="https://adibhan.github.io/" target="_blank">https://adibhan.github.io/</a></p>
+  <p>📫 <strong>Contact:</strong> <a href="mailto:abhan03@bu.edu">abhan03@bu.edu</a></p>
+</div>
 
-- 👨‍💻 All of my projects are available @ [https://adibhan.github.io/](https://adibhan.github.io/)
+## Recent Public Projects
 
-- 📫 How to reach me | **abhan03@Bu.edu** | **adityabhan99@gmail.com**
+### 🚜 **Farmify**
+A mobile marketplace connecting local farmers with buyers through a Dutch auction system.  
+- Built with **React Native** and **C# ASP.NET Core**.  
+- Features: **PayPal payments**, **DoorDash delivery integration**, and **Google OAuth authentication**.  
+- Led a team of 3 developers using Agile methodology.  
+[➡️ Learn More](https://github.com/AdiBhan/Farmify)
+
+---
+
+### 🛣️ **LaneWise**
+An ML-powered traffic analysis system recommending optimal highway lanes.  
+- Utilizes **K-means++ clustering** to process the NGSIM Vehicle Trajectories dataset (~400K records).  
+- **Python FastAPI backend** with a **React frontend**.  
+- Implemented automated CI/CD using **GitHub Actions**.  
+[➡️ Learn More](https://github.com/AdiBhan/LaneWise)
+
+---
+
+### 🏆 **Adi** (BostonHacks 2022 Winner)
+An AI Advertisement Generator mobile app using **DALL-E 2** and **GPT-3**.  
+- Built with **React Native** and **Django**.  
+- Won **"Best Overall Hack"** at BostonHacks 2022.  
+[➡️ Learn More](https://www.getadi.tech) | [🌐 DEVPOST](https://bostonhacks-2022.devpost.com/)
+
+---
+
+    
+
+## Technical Skills
+**Languages:**
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40">
+</div>
+
+**Frontend:**
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40">
+</div>
 
 
-## Previous Projects Projects 
-
-- ParentAlly.social -> For the 2023 Civic Tech Hackathon, I worked on the parentally.social project as a part of a team of developers to create a online platform that connects single parents by geographic area. My main contribution was designing a chatbot using OpenAI and ExpressJS. I also assisted in creating the website's front-end using HTML and CSS. It was a challenging but rewarding experience working on this project and I am excited to see its future development.
-- **View Demo ➡️ http://parentally.social/** | <a href= "https://devpost.com/software/parentally-empowering-single-parents?ref_content=my-projects-tab&ref_feature=my_projects">DEVPOST</a> 
-
-- USColleges.live - Introducing "USColleges" a one-stop website for all your college ranking needs! This website brings together data from multiple college ranking websites and presents it in an easy-to-compare format. With a sleek and modern user interface built with ReactJS, Tailwind CSS, and Semantic UI, you'll have a seamless browsing experience as you compare colleges and find the perfect fit for you.
-**View Demo ➡️ http://uscolleges.live/** 
-
-- I created a personal portfolio website with ReactJS and TailwindCSS. I plan on updating and improving this site as I continue to learn more about React.
-**View Demo ➡️ https://adibhan.github.io/**
-
-- Adi - For the 2023 BostonHacks Hackathon, I worked with a team of developers to create Adi -> AI Advertisement Generator: Adi is a mobile application that generate advertisements using artificial intelligence from Dalle-@@. It interfaces with OpenAI's API, and features a React Native front-end and Django back-end. It won BostonHacks2022's "Best Overall Hack".
-**Learn More**: https://www.getadi.tech | <a href= "https://bostonhacks-2022.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio">DEVPOST</a> 
-
-- Greengle -  Carbon footprint tracker for online shoppers: Greengle is a companion site for *Amazon.com* that helps consumers estimate the carbon footprint of their Amazon purchase. This project was initially created during an eight-hour "BU Spark!" sustainability mini-hackathon and won the "Best Code" prize. It functions by determining the distance between the buyer's address and the nearest Amazon fullfilment center. It calls the Radar API to calculate the miles a vehicle must travel, and then calls another API to estimate the kilograms of CO2 gas emitted given the type of vehicle.
-**Learn More**: https://github.com/AdiBhan/Greengle
+**Backend:**
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40">
+</div>
 
 
+**Databases:**
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Cloud & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adibhan&show_icons=true&locale=en&layout=compact" alt="adibhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adibhan&show_icons=true&locale=en" alt="adibhan" /></p>
-
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40">
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40">
+</div>
